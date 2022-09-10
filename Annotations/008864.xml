@@ -1,0 +1,26 @@
+<annotation>
+	<folder>长颈鹿</folder>
+	<filename>008864.jpg</filename>
+	<path>C:\Users\asus\Desktop\长颈鹿\008864.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>giraffe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>37</ymin>
+			<xmax>456</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

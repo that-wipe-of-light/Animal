@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sjj</folder>
+	<filename>000912.jpg</filename>
+	<path>D:\sjj\000912.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>236</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>butterfly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>33</ymin>
+			<xmax>243</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

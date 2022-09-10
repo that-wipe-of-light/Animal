@@ -1,0 +1,26 @@
+<annotation>
+	<folder>大象</folder>
+	<filename>007222.jpg</filename>
+	<path>D:\下载\大象\007222.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3937</width>
+		<height>5122</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>635</xmin>
+			<ymin>2107</ymin>
+			<xmax>3048</xmax>
+			<ymax>4707</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>松鼠</folder>
+	<filename>003775.jpg</filename>
+	<path>D:\下载\松鼠\003775.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>squirrel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>26</ymin>
+			<xmax>300</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

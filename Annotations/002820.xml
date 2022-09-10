@@ -1,0 +1,26 @@
+<annotation>
+	<folder>熊猫2</folder>
+	<filename>002820.jpg</filename>
+	<path>C:\Users\asus\Desktop\熊猫2\002820.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4300</width>
+		<height>2870</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>515</xmin>
+			<ymin>356</ymin>
+			<xmax>2705</xmax>
+			<ymax>2556</ymax>
+		</bndbox>
+	</object>
+</annotation>

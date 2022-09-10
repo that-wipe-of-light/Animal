@@ -1,0 +1,26 @@
+<annotation>
+	<folder>老虎1</folder>
+	<filename>005550.jpg</filename>
+	<path>C:\Users\asus\Desktop\老虎1\005550.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5316</width>
+		<height>3544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1642</xmin>
+			<ymin>484</ymin>
+			<xmax>5210</xmax>
+			<ymax>3309</ymax>
+		</bndbox>
+	</object>
+</annotation>
