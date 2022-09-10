@@ -1,0 +1,4 @@
+train: D:/sxjm/VOC2007/traindata
+val:  D:/sxjm/VOC2007/valdata
+nc: 6
+names: ["butterfly","panda","squirrel","tiger","elephant","giraffe"]
