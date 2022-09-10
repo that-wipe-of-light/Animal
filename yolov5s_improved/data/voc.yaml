@@ -1,0 +1,5 @@
+train: /root/aa/copy/traindata/
+val:  /root/aa/copy/valdata/
+nc: 6
+names: ["butterfly","panda","squirrel","tiger","elephant","giraffe"]
+
